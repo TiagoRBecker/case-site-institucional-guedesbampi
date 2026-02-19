@@ -37,18 +37,18 @@ O projeto foi construído utilizando tecnologias modernas para garantir uma expe
 
 ### 🖥️ Interface Principal (Home)
 <div align="center">
-  <img src="assets/inst/image_623cba.png" width="90%" alt="Página Inicial Guedes Bampi">
+  <img src="assets/inst/1.png" width="90%" alt="Página Inicial Guedes Bampi">
 </div>
 
 ### ⚖️ Áreas de Atuação e Especialidades
 <div align="center">
-  <img src="assets/inst/image_623cda.png" width="45%" alt="Grid de Especialidades">
-  <img src="assets/inst/image_623cc0.jpg" width="45%" alt="Timeline de História">
+  <img src="assets/inst/2.png" width="45%" alt="Grid de Especialidades">
+  <img src="assets/inst/3.jpg" width="45%" alt="Timeline de História">
 </div>
 
 ### 📩 Conversão e Atendimento
 <div align="center">
-  <img src="assets/inst/image_623cfa.jpg" width="90%" alt="Formulário de Contato">
+  <img src="assets/inst/4.jpg" width="90%" alt="Formulário de Contato">
 </div>
 
 ---
