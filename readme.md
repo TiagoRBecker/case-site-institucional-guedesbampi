@@ -43,12 +43,12 @@ O projeto foi construído utilizando tecnologias modernas para garantir uma expe
 ### ⚖️ Áreas de Atuação e Especialidades
 <div align="center">
   <img src="assets/inst/2.png" width="45%" alt="Grid de Especialidades">
-  <img src="assets/inst/3.jpg" width="45%" alt="Timeline de História">
+  <img src="assets/inst/3.png" width="45%" alt="Timeline de História">
 </div>
 
 ### 📩 Conversão e Atendimento
 <div align="center">
-  <img src="assets/inst/4.jpg" width="90%" alt="Formulário de Contato">
+  <img src="assets/inst/4.png" width="90%" alt="Formulário de Contato">
 </div>
 
 ---
